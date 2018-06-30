@@ -33,3 +33,7 @@ web/.htaccess
 # WP Plugins
 web/app/object-cache.php
 web/app/advanced-cache.php
+!web/app/plugins/woocommerce
+
+# WP Themes
+!web/app/themes/storefront
