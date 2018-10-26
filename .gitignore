@@ -1,5 +1,6 @@
 #Common
 **/node_modules
+**/package-lock.json
 
 # Application
 web/app/plugins/*
